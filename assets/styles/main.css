@@ -2911,7 +2911,7 @@
    height: 50px;
  }
  .post-inner {
-   font-size: 1.125rem;
+   font-size: 1.03rem;
    line-height: 1.7;
  }
  .post-inner > :not(a) {
@@ -3594,7 +3594,7 @@
      height: 180px;
    }
    .post-inner {
-     font-size: 1.0625rem;
+     font-size: 1.03rem;
    }
    .post-inner q {
      font-size: 1.375rem;
